@@ -1,0 +1,12 @@
+neden pages altında olan home ve login sayfaları jsx değil de js 
+
+
+
+
+
+
+
+
+
+
+

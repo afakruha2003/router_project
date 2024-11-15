@@ -1,0 +1,82 @@
+npx create-react-app proje_adi
+npm start
+npm run build
+npm install paket_adi
+npm uninstall paket_adi
+npm install
+
+npm i react-router
+npm i react-router-dom
+import { BrowserRouter } from "react-router-dom"; //index.js dosyasında
+<React.StrictMode>
+    <BrowserRouter>
+      <App />
+    </BrowserRouter>
+  </React.StrictMode>
+
+
+npm i bootstrap
+import "bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap/dist/js/bootstrap.bundle";
+
+nex.js
+wite=web sunucusu
+xml+html=jsx
+
+componentler isimleri büyük harfle başlar ör: App.js
+jsx dilinde htmlden farklı olarak class yerine className kullanılır mesela
+
+rfc fonksiyon rcc class rafce arrow function
+
+
+
+npm i axios
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
